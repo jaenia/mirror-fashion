@@ -1,3 +1,4 @@
 # Mirror Fashion
 
-HTML, CSS and JavaScript codes for a clothes shop website.
+Codes for a clothes shop website.
+Course: Web Development with HTML, CSS and JavaScript - Caelum
